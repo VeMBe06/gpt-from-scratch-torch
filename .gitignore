@@ -1,3 +1,9 @@
+# notebook stuff
 /notebooks
+prep.ipynb
+.python-version
+*.ipynb
 
+# keep data folder
 /data/*
+!data/.gitkeep
