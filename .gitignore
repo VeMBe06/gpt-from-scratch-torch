@@ -1,8 +1,10 @@
 # notebook stuff
 /notebooks
 prep.ipynb
-.python-version
 *.ipynb
+
+# pyenv environment name
+.python-version
 
 # keep data folder
 /data/*
